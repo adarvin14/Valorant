@@ -35,8 +35,8 @@ export const NavbarData = [
     cName: 'nav-text'
   },
   {
-    title: 'Support',
-    path: '/support',
+    title: 'Contact Us',
+    path: '/Contact',
     icon: <IoIcons.IoMdHelpCircle />,
     cName: 'nav-text'
   }

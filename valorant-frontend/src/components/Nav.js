@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom';
 import { NavbarData } from './NavbarData';
 import './Nav.css';
 import { IconContext } from 'react-icons';
+import './Contact.js'
 
 function Nav() {
   const [navbar, setNavbar] = useState(false);
