@@ -17,8 +17,8 @@ export const NavbarData = [
     cName: 'nav-text'
   },
   {
-    title: 'Reviews',
-    path: '/reviews',
+    title: 'New Recipe',
+    path: '/recipes-form',
     icon: <IoIcons.IoIosPaper />,
     cName: 'nav-text'
   },

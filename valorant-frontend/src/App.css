@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.footer {
+  position: relative;
+  left:0;
+  bottom:0;
+  right:0;
+  padding-bottom:60px;
+  height: calc(100% - 60px);
+}
