@@ -10,18 +10,18 @@ export const NavbarData = [
     icon: <AiIcons.AiFillHome />,
     cName: 'nav-text'
   },
-//   {
-//     title: 'Reports',
-//     path: '/reports',
-//     icon: <IoIcons.IoIosPaper />,
-//     cName: 'nav-text'
-//   },
-//   {
-//     title: 'Products',
-//     path: '/products',
-//     icon: <FaIcons.FaCartPlus />,
-//     cName: 'nav-text'
-//   },
+  {
+    title: 'Recipes',
+    path: '/recipes',
+    icon: <IoIcons.IoIosPaper />,
+    cName: 'nav-text'
+  },
+  {
+    title: 'Reviews',
+    path: '/reviews',
+    icon: <IoIcons.IoIosPaper />,
+    cName: 'nav-text'
+  },
 //   {
 //     title: 'Team',
 //     path: '/team',
